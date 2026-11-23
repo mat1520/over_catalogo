@@ -2,7 +2,7 @@
 
 Materiales para preparar el catálogo de **Wilmas Fashion**.
 
-- [Prompt y plan para desarrollar el catálogo en GPT Site](catalogo-gpt-site/)
+- [Prompt y plan para maquetar el catálogo en PDF, al estilo Canva](catalogo-gpt-site/)
 - [Datos de marca, redes, contacto y locales](datos-catalogo.md)
 - [Logos de Wilmas en PNG](marca/logos/) y [PDF original de logos](marca/logos/logos-originales.pdf)
 - [Tipografías de marca: Alvar Essential Alt y Alvar Pro](marca/tipografia.md)
