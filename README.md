@@ -1,5 +1,11 @@
 # over_catalogo
 
+Materiales para preparar el catálogo de **Wilmas Fashion**.
+
+- [Datos de marca, redes, contacto y locales](datos-catalogo.md)
+- [Logo original](marca/logo-wilmas.jpeg)
+- [Lista de precios original](precios/lista-de-precios-wilmas-fashion.pdf)
+
 Fotos del catálogo organizadas por la prenda principal:
 
 - [Conjuntos](imagenes/conjuntos/)
