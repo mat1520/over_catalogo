@@ -3,7 +3,7 @@
 ## Marca y materiales
 
 - **Marca:** Wilmas Fashion. La marca usa «Over» para una línea de conjuntos; no es el nombre comercial de la tienda. [Publicación de Conjuntos Over](https://www.tiktok.com/@wilmasfashion/video/7708900861333835015).
-- **Originales:** [logo de Wilmas](marca/logo-wilmas.jpeg), [76 fotos organizadas por prenda](imagenes/) y [lista de precios original](precios/lista-de-precios-wilmas-fashion.pdf).
+- **Materiales:** [logos de Wilmas](marca/logos/), [tipografías de marca](marca/tipografia.md), [76 fotos organizadas por prenda](imagenes/) y [lista de precios original](precios/lista-de-precios-wilmas-fashion.pdf).
 
 ## Redes y pedidos
 
