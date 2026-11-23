@@ -9,7 +9,8 @@
 
 | Canal | Dato |
 | --- | --- |
-| WhatsApp principal para pedidos | [+593 97 933 0556](https://wa.link/1nkjrr) · [publicación de ventas](https://www.instagram.com/p/DeIIO2fFE-u/embed/captioned/) |
+| Contacto de compra para el catálogo | [+593 96 396 6120](tel:+593963966120) |
+| WhatsApp publicado en redes | [+593 97 933 0556](https://wa.link/1nkjrr) · [publicación de ventas](https://www.instagram.com/p/DeIIO2fFE-u/embed/captioned/) |
 | Teléfono alternativo publicado | +593 99 285 8247 · [publicación de pedidos](https://www.tiktok.com/@wilmasfashionec/video/7623533163662314770). Confirmar si sigue activo antes de incluirlo. |
 | Instagram | [@wilmasfashionec](https://www.instagram.com/wilmasfashionec/) |
 | TikTok | [@wilmasfashion](https://www.tiktok.com/@wilmasfashion) y [@wilmasfashionec](https://www.tiktok.com/@wilmasfashionec/) |
